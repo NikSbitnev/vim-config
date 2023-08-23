@@ -1,3 +1,4 @@
+syntax on
 colorscheme slate
 
 set background=dark
