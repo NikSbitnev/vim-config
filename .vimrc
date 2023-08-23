@@ -18,5 +18,3 @@ let g:netrw_liststyle = 3
 let g:netrw_browsesplit = 3
 
 nnoremap <leader>/ :nohlsearch<CR>
-nnoremap <leader>s :w<CR>:so %<CR>
-nnoremap <space>e :Ex<CR>
