@@ -1,6 +1,8 @@
 syntax on
 colorscheme slate
 
+set clipboard+=unnamed
+set clipboard+=unnamedplus
 set background=dark
 set encoding=utf-8
 set number
